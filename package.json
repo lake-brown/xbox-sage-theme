@@ -1,0 +1,7 @@
+{
+  "name": "xbox-sage-theme",
+  "scripts": {
+    "dev": "echo Dev mode running...",
+    "build": "echo Build complete"
+  }
+}
