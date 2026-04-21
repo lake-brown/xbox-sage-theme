@@ -1,4 +1,4 @@
-# 🎮 Xbox Game Website (Sage-Inspired WordPress Theme)
+#  Xbox Game Website (Sage-Inspired WordPress Theme)
 
 This project simulates a production-level WordPress website similar to those used by Xbox Game Studios.
 
@@ -34,7 +34,7 @@ This project simulates a production-level WordPress website similar to those use
 
 ---
 
-## 🔄 Migration Simulation
+##  Migration Simulation
 
 - Exported and imported WordPress content
 - Reconfigured environment paths
@@ -42,7 +42,7 @@ This project simulates a production-level WordPress website similar to those use
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 - WordPress theme development using modern structure
 - PHP templating and dynamic content rendering
@@ -51,9 +51,6 @@ This project simulates a production-level WordPress website similar to those use
 
 ---
 
-## Screenshots
-
-_Add screenshots of your homepage, WordPress dashboard, and news pages here_
 
 ---
 
